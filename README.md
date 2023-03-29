@@ -1,1 +1,3 @@
-# 2021-2023-osu-replays
+# Lilyn's osu replays
+
+It's where I store all of my replays for safekeeping.
